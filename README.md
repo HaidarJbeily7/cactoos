@@ -45,7 +45,7 @@ Maven:
 <dependency>
   <groupId>org.cactoos</groupId>
   <artifactId>cactoos</artifactId>
-  <version>0.57.0</version>
+  <version></version>
 </dependency>
 ```
 
@@ -53,7 +53,7 @@ Gradle:
 
 ```groovy
 dependencies {
-  compile 'org.cactoos:cactoos:0.57.0'
+  compile 'org.cactoos:cactoos::
 }
 ```
 
